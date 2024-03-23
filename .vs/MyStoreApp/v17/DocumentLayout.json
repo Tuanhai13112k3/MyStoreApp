@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\OneDrive\\Documents\\CS\\MyStoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19D78F4B-BCC4-4F68-BAD2-65A98C286762}|MyStoreApp.csproj|C:\\Users\\acer\\OneDrive\\Documents\\CS\\MyStoreApp\\models\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D78F4B-BCC4-4F68-BAD2-65A98C286762}|MyStoreApp.csproj|solutionrelative:models\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D78F4B-BCC4-4F68-BAD2-65A98C286762}|MyStoreApp.csproj|C:\\Users\\acer\\OneDrive\\Documents\\CS\\MyStoreApp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D78F4B-BCC4-4F68-BAD2-65A98C286762}|MyStoreApp.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D78F4B-BCC4-4F68-BAD2-65A98C286762}|MyStoreApp.csproj|C:\\Users\\acer\\OneDrive\\Documents\\CS\\MyStoreApp\\mystoreapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{19D78F4B-BCC4-4F68-BAD2-65A98C286762}|MyStoreApp.csproj|solutionrelative:mystoreapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D78F4B-BCC4-4F68-BAD2-65A98C286762}|MyStoreApp.csproj|C:\\Users\\acer\\OneDrive\\Documents\\CS\\MyStoreApp\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19D78F4B-BCC4-4F68-BAD2-65A98C286762}|MyStoreApp.csproj|solutionrelative:views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D78F4B-BCC4-4F68-BAD2-65A98C286762}|MyStoreApp.csproj|C:\\Users\\acer\\OneDrive\\Documents\\CS\\MyStoreApp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19D78F4B-BCC4-4F68-BAD2-65A98C286762}|MyStoreApp.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D78F4B-BCC4-4F68-BAD2-65A98C286762}|MyStoreApp.csproj|C:\\Users\\acer\\OneDrive\\Documents\\CS\\MyStoreApp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19D78F4B-BCC4-4F68-BAD2-65A98C286762}|MyStoreApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D78F4B-BCC4-4F68-BAD2-65A98C286762}|MyStoreApp.csproj|C:\\Users\\acer\\OneDrive\\Documents\\CS\\MyStoreApp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19D78F4B-BCC4-4F68-BAD2-65A98C286762}|MyStoreApp.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D78F4B-BCC4-4F68-BAD2-65A98C286762}|MyStoreApp.csproj|C:\\Users\\acer\\OneDrive\\Documents\\CS\\MyStoreApp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19D78F4B-BCC4-4F68-BAD2-65A98C286762}|MyStoreApp.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D78F4B-BCC4-4F68-BAD2-65A98C286762}|MyStoreApp.csproj|C:\\Users\\acer\\OneDrive\\Documents\\CS\\MyStoreApp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19D78F4B-BCC4-4F68-BAD2-65A98C286762}|MyStoreApp.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Documents\\CS\\MyStoreApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Documents\\CS\\MyStoreApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAjwFoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T20:58:38.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyStoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Documents\\CS\\MyStoreApp\\Models\\MyStoreContext.cs",
+              "RelativeDocumentMoniker": "Models\\MyStoreContext.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Documents\\CS\\MyStoreApp\\Models\\MyStoreContext.cs",
+              "RelativeToolTip": "Models\\MyStoreContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBgAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T20:56:26.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Documents\\CS\\MyStoreApp\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Documents\\CS\\MyStoreApp\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Views\\Product\\Details.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAASwCMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T21:20:26.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Documents\\CS\\MyStoreApp\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Documents\\CS\\MyStoreApp\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T21:21:13.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyStoreApp.csproj",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Documents\\CS\\MyStoreApp\\MyStoreApp.csproj",
+              "RelativeDocumentMoniker": "MyStoreApp.csproj",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Documents\\CS\\MyStoreApp\\MyStoreApp.csproj",
+              "RelativeToolTip": "MyStoreApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-13T20:47:49.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Documents\\CS\\MyStoreApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Documents\\CS\\MyStoreApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T21:23:07.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Documents\\CS\\MyStoreApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Documents\\CS\\MyStoreApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T21:23:00.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Documents\\CS\\MyStoreApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Documents\\CS\\MyStoreApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T21:22:53.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Documents\\CS\\MyStoreApp\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Documents\\CS\\MyStoreApp\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T21:18:14.015Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
